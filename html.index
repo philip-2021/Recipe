@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipe</title>
+    <link rel="stylesheet" href="Recipe.css">
+    <a href="Pie.html"></a>
+</head>
+<body class="index">
+     <!-- navigation section -->
+<nav>
+    <a href=""class="nav-link">Home</a>
+    <a href=""class="nav-link">Products</a>
+    <a href=""class="nav-link">Login</a>
+    <a href=""class="nav-link">Contact Us</a>
+    <a href="Pie.html"class="nav-link">Pie Page</a>
+</nav>
+<section>
+    <!-- hero section -->
+    <h1 id="para1">Welcome to Legendary Recipes</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+    Laudantium fugiat at velit est modi odio quis, ut suscipit, 
+    rerum in odit! Quos consequatur sunt nesciunt ipsum odio, natus aut similique illum. 
+    Animi tempora vel at sit alias debitis. Recusandae maxime consequuntur incidunt! Adipisci blanditiis eum, omnis accusantium laboriosam unde autem. 
+    Minima porro mollitia nihil! Hic mollitia aspernatur magni molestias a omnis soluta facere sit similique, 
+    architecto nisi, accusantium debitis saepe?</p>
+    <div id="image1">
+        <img src="images/food-3270461__340.jpg" alt="food recipe" width="500px" height="300px">
+        <h6>food recipe</h6>
+    </div>
+    <div id="image2">
+        <img src="images/vegetables-1274953__340.jpg" alt="vegetable recipe" width="500px" height="300px">
+        <h6>vegetable recipe</h6>
+    </div>
+    <div id="image3">
+        <img src="images/soup-greens-869075__340.jpg" alt="greens-soup recipe"width="500px" height="300px">
+        <h6>greens-soup recipe</h6>
+    </div>
+    <div id="image4">
+        <img src="images/kagyana-2955466__340.jpg" alt="kagyana recipe"width="500px" height="300px">
+        <h6>Kagyana recipe</h6>
+    </div>
+    <div id="image5">
+        <img src="images/recipe-2728726__340.jpg" alt="Recipe" width="500px" height="300px">
+        <h6>Carrot Recipe</h6>
+    </div>
+    <div id="image6">
+        <img src="images/fish-1101436__340.jpg" alt="fish recipe" width="500px" height="300px">
+        <h6>fish recipe</h6>
+    </div>
+</section>
+<!-- footer section -->
+<footer>
+    <ul>
+        <li><a href="">Twitter</a></li>
+        <li><a href="">Instagram</a></li>
+        <li><a href="">Facebook</a></li>
+        <li><a href="">Youtube</a></li>
+    </ul>
+    <p>all right reserve &copy;2022 Legendary Recipes</p>
+</footer>
+</body>
+</html>  
