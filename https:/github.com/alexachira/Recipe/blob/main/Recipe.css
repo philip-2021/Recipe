@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+}
+body.index{
+    background-color: aqua;
+    
+}
+
+nav{
+background-color: aquamarine;
+padding: 0.5em;
+}
+.nav-link{
+    font-size: 1.5em;
+    text-decoration: none;
+    margin-right: 0.5em;
+    border: black solid 0.2em;
+    padding: 0.1em;
+}
+.nav-link:hover{
+    background-color: yellowgreen;
+    color: rgb(15, 116, 156);
+}
+body.Pie{
+    background-color: azure;
+    
+}
+#image1{
+    float: left;
+}
+#image2{
+    float: right;
+}
+#image3{
+    float: left;
+}
+#image4{
+    float: right;
+}
+#image5{
+    float: left;
+}
+#image6{
+    float: right;
+    
+}
+section{
+    padding-left: 120px;
+    padding-right: 120px;
+}
+#head1{
+    text-align: center;
+}
+#background{
+    background-color: rgb(255, 243, 80);
+}
+#head3{
+    color: #e8b023;
+}
+#head4{
+    text-align: center;
+    color: #e8b023;
+}
+#para1{
+    color:#2623e8 ;
+}
